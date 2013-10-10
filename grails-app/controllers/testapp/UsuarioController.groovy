@@ -6,7 +6,7 @@ class UsuarioController {
         render "asdsada"
     }
     
-    def myAction () {
+    def myAction2 () {
         render "now"
     }
 }
